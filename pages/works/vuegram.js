@@ -7,7 +7,7 @@ const Vuegram = () => (
   <Layout title="Vuegram">
     <Container>
       <Title>
-        <a href="https://vuegram-sandy.vercel.app/" target="_blank">
+        <a href="https://vuegram-design.netlify.app/" target="_blank">
           Vuegram
         </a>
       </Title>
@@ -18,7 +18,7 @@ const Vuegram = () => (
         Nginx server with custom SSL.
       </P>
       <br />
-      <a href="https://vuegram-sandy.vercel.app/" target="_blank">
+      <a href="https://vuegram-design.netlify.app/" target="_blank">
         <WorkImage src="/images/works/vuegram_settings.png"></WorkImage>
       </a>
     </Container>
